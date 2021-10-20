@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2%;
+  background-color: rgba(196, 214, 232, 0.2);
+}
+p {
+  background-color: rgba(196, 214, 232, 0.1);
+}
